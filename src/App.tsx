@@ -12,7 +12,7 @@ function App() {
         <button
           onClick={() => dispatch(incrementByAmount(5))}
           className="bg-green-500 text-white text-xl p-4 rounded-lg"
-        >Increment By 5 </button> 
+        >Increment By 5 </button>
         <button
           onClick={() => dispatch(increment())}
           className="bg-green-500 text-white text-xl p-4 rounded-lg"
